@@ -69,3 +69,7 @@ div#campo {
     padding: 0px;
     margin: -4px;
  }
+ input {
+    border-radius: 10px;
+    padding: 2px;
+ }
