@@ -94,7 +94,7 @@ div.campo > span{
         transform: translateY(-9px);
     }
     div.campo > input:focus-within {
-        background-color: white;
+        background-color: #ffffff;
         border: none;
     }
 
